@@ -26,6 +26,13 @@ Example building [here](https://developer.microsoft.com/en-us/windows/holographi
 - In the Capabilities section, select the Microphone and SpatialPerception capabilities.
 - Back in the Build Settings window, click Build.
 
+# Settings up Github
+- Switch to Visible Meta Files in Edit → Project Settings → Editor → Version Control Mode
+- Switch to Force Text in Edit → Project Settings → Editor → Asset Serialization Mode
+- Save Scene and Project from File menu.
+- Use the gitignore file in this repository
+- Upload!
+
 # Credentials 
 Usernane: holoTest
 Password: dshsholo
